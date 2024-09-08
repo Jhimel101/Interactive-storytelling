@@ -3,6 +3,8 @@ An immersive platform where users can read or create stories with branching narr
 
 Follow Wiki for Installation Instructions
 
+Technology used: Laravel
+
 Seeder includes:
 
 Author: author@example.com, password: 123456
